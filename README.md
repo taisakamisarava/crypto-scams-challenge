@@ -8,15 +8,20 @@ The objective of this challenge is to generate a brief report on scam-related ac
   - Date (at least month and year)
   - Description of the incident
 - Collect a minimum of 500 Google News mentions of this entity over a minimum one-month period, encompassing the period from 2022 to 2023. Create visualizations illustrating descriptive statistics, specifically highlighting the number of these mentions associated with scams compared to all mentions.
-- Perform sentiment analysis on the collected data and add visualizations illustrating the ratio of mentions with negative sentiment.
+
+Notes:
+
+- For each submission, please follow the report structure provided in the [Example.md](https://github.com/1712n/crypto-scams-challenge/blob/main/example.md).
+- Use the following naming convention for the .md files that you submit: *Name-of-the-crypto-project*.md
+- When you describe the scam incidents, please refer to the numbers and facts. Refrain from generic words like "substantial loss".
 
 #### Deliverables: 
 
 - A report with the structure described above
-- CSV-file with Google news mentions and sentiment scores of the following structure:
+- CSV-file with Google news mentions of the following structure:
   
-| timestamp | article_title | text | link | sentiment_score|
-|------------|--------------|-------|------|------------------|
-| YYYY-mm-dd | | | | |
+| timestamp | article_title | text | link | 
+|------------|--------------|-------|------|
+| YYYY-mm-dd | | | | 
 
 To participate, submit a pull request with the report you generated to the challenge repo. Please also email your pull request link along with the CSV-file you collected, your resume and the link to this challenge to challenge-submission@blockshop.org.
