@@ -13,6 +13,10 @@ The objective of this challenge is to generate a brief report on scam-related ac
 #### Deliverables: 
 
 - A report with the structure described above
-- CSV-file with Google news mentions and sentiment scores of the following structure: `timestamp` `article_title` `text` `link` `sentiment_score`
+- CSV-file with Google news mentions and sentiment scores of the following structure:
+  
+| timestamp | article_title | text | link | sentiment_score|
+|------------|--------------|-------|------|------------------|
+| YYYY-mm-dd | | | | |
 
 To participate, submit a pull request with the report you generated to the challenge repo. Please also email your pull request link along with the CSV-file you collected, your resume and the link to this challenge to challenge-submission@blockshop.org.
