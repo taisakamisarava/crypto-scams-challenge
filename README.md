@@ -9,7 +9,7 @@ The objective of this challenge is to generate a brief report on scam-related ac
   - Description of the incident
 - Collect a minimum of 500 Google News mentions of this entity over a minimum one-month period, encompassing the period from 2022 to 2023. Create visualizations illustrating descriptive statistics, specifically highlighting the number of these mentions associated with scams compared to all mentions.
 
-Notes:
+#### Notes:
 
 - For each submission, please follow the report structure provided in the [Example.md](https://github.com/1712n/crypto-scams-challenge/blob/main/example.md).
 - Feel free to add more visualizations than provided in the example file. And feel free to use other types of visualizations to convey your main points as well.
