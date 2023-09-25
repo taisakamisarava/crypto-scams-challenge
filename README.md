@@ -25,4 +25,6 @@ The objective of this challenge is to generate a brief report on scam-related ac
 |------------|--------------|-------|------|
 | YYYY-mm-dd | | | | 
 
-To participate, submit a pull request with the report you generated to the challenge repo. Please also email your pull request link along with the CSV-file you collected, your resume and the link to this challenge to challenge-submission@blockshop.org.
+
+
+*To participate, submit a pull request with the report you generated to the challenge repo. Please also email your pull request link along with the CSV-file you collected, your resume and the link to this challenge to challenge-submission@blockshop.org.*
