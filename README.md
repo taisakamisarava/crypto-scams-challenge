@@ -7,7 +7,7 @@ The objective of this challenge is to generate a brief report on scam-related ac
 - Top 2 scams related to the project - either the project's direct involvement in a scam or its exploitation by malicious actors:
   - Date (at least month and year)
   - Description of the incident
-- Collect Google News mentions for this entity within the timeframe of one month minimum, spanning 2022-2023 (with a minimum of 500 mentions). Create visualizations illustrating descriptive statistics, specifically highlighting the number of these mentions associated with scams compared to all mentions.
+- Collect a minimum of 500 Google News mentions of this entity over a minimum one-month period, encompassing the period from 2022 to 2023. Create visualizations illustrating descriptive statistics, specifically highlighting the number of these mentions associated with scams compared to all mentions.
 - Perform sentiment analysis on the collected data and add visualizations illustrating the ratio of mentions with negative sentiment.
 
 #### Deliverables: 
