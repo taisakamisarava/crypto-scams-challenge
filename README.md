@@ -11,7 +11,7 @@ The objective of this challenge is to generate a brief report on scam-related ac
 
 #### Notes:
 
-- For each submission, please follow the report structure provided in the [Example.md](https://github.com/1712n/crypto-scams-challenge/blob/main/example.md).
+- For each submission, please follow the report structure provided in the [Example.md]([https://github.com/1712n/crypto-scams-challenge/blob/main/example.md](https://github.com/1712n/crypto-scams-challenge/blob/main/Example.md)).
 - Feel free to add more visualizations than provided in the example file. And feel free to use other types of visualizations to convey your main points as well.
 - Use the following naming convention for the .md files that you submit: *Name-of-the-crypto-project*.md
 - When you describe the scam incidents, please refer to the numbers and facts. Refrain from generic words like "substantial loss".
